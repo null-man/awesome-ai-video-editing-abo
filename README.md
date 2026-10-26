@@ -188,6 +188,7 @@ Note: OpenAI's Sora app and website were discontinued on 2026-04-26 and its API 
 - [Fliki](https://fliki.ai) - Turns scripts and blog posts into narrated video with 2,000+ voices in 80+ languages. *(hosted · free tier)*
 - [Gemini Omni](https://gemini.google/overview/video-generation/) - Google's conversational video model; generates from text, image or video and re-generates edits like backgrounds and lighting on uploads. *(hosted)*
 - [Hailuo](https://hailuoai.video) - MiniMax's text- and image-to-video model, known for character motion. *(hosted · free tier)*
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent text/image-to-video via Grok Imagine API (not affiliated with xAI/X); free trial credits. *(hosted · free trial)*
 - [Hedra](https://www.hedra.com) - Character and performance video generation from image plus audio. *(hosted)*
 - [HeyGen](https://www.heygen.com) - Avatar video and translation with lip-sync across languages. *(hosted)*
 - [Higgsfield](https://higgsfield.ai) - Camera-motion-led generation suite with an agent for repeat creative workflows. *(hosted)*
