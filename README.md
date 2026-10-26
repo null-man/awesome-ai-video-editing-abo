@@ -192,6 +192,9 @@ Note: OpenAI's Sora app and website were discontinued on 2026-04-26 and its API 
 - [Alors On Danse Video Maker](https://alorsondansevideo.com): Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
 - [Bad Times AI](https://badtimesai.dev): Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
 - [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com): Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
+- [KDA Firestarter AI Dance](https://kdafirestarterai.dev): Independent unofficial AI: one photo → 13s 480p 21:9 solo dance video (Paid from $7.99). Not affiliated with Riot Games or K/DA
+- [A2O LITE NEON AI Dance](https://a2oliteai.org): Independent AI: two photos → 15s 480p 16:9 duo neon dance with reference soundtrack (Paid from $7.99). Unofficial
+- [dime dime baby ai](https://dimedimebabyai.dev): Independent AI: one photo → ~5s 480p 9:16 AI dance (Quince Classic or Party Groove) (Paid from $7.99)
 - [Hedra](https://www.hedra.com) - Character and performance video generation from image plus audio. *(hosted)*
 - [HeyGen](https://www.heygen.com) - Avatar video and translation with lip-sync across languages. *(hosted)*
 - [Higgsfield](https://higgsfield.ai) - Camera-motion-led generation suite with an agent for repeat creative workflows. *(hosted)*
